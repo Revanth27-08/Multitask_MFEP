@@ -1,0 +1,17 @@
+nstep             2000000
+tstep             0.005
+temperature       1.0
+friction          10.0
+random_seed       12
+plumed_input      plumed.dat
+dimension         2
+replicas          1
+basis_functions_1 BF_POWERS ORDER=1 MINIMUM=-3.0 MAXIMUM=+3.0
+basis_functions_2 BF_POWERS ORDER=1 MINIMUM=-2.5 MAXIMUM=+2.5
+input_coeffs       input_md-potential.dat
+initial_position   1.0,0.0 
+output_coeffs           /dev/null
+output_potential        /dev/null
+output_potential_grid   10
+output_histogram        /dev/null
+
