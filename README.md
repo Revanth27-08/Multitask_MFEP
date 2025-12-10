@@ -2,4 +2,4 @@
 
 Codes and input files for the following manuscript:
 
-Elangovan R, Chatterjee S, Ray D. "Data-driven enhanced sampling of mechanistic pathways". ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-xrcg6
+Elangovan, R., Chatterjee, S. and Ray, D., 2025. Data-driven enhanced sampling of mechanistic pathways. Proceedings of the National Academy of Sciences, 122(49), p.e2517169122. ; https://www.pnas.org/doi/abs/10.1073/pnas.2517169122
