@@ -5,4 +5,4 @@ Codes and input files for the following manuscript:
 
 ChemRxiv: [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-DOI-blue)](https://doi.org/10.26434/chemrxiv-2025-xrcg6)
 
-![GraphicTOC](Graphic_TOC.pdf)
+![GraphicTOC](Graphic_TOC.png)
